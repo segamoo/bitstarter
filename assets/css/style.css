@@ -94,3 +94,7 @@ color: #ccccff;
  width: 16px;
  height: 16px;
 }
+div.addthis_toolbox {
+  width:180px;
+  margin: 0 auto;
+}
